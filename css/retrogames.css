@@ -67,18 +67,18 @@ background-image:url('../images/black.png');
 
 /* Navbar title */
 .navbar-inverse .navbar-brand {
-  color: white;
+  color: black;
   font-family: multicolore;
 }
 
 /* Navbar link  */
 .navbar-inverse .navbar-nav  > li > a {
-    color: white;
-	font-family: aller;
+    color: black;
+	font-family: Arial;
 }
 
 h1, h4 {
-  font-family: multicolore;
+  font-family: Arial;
   }
 
 h4 {
